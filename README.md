@@ -13,3 +13,9 @@ UCCVisio makes it easy to create various types of diagrams, including flowcharts
 UCCVisio is a set of 100% free drawing software provided by UCanCode software company!
 Download the lastest edition of UCanCode Visio 2023, by Visit: http://www.softbam.com
 Source Codes can be found with: http://www.ucancode.net
+News:
+1. Update link feature.
+2. Update SVG feature.
+3. Update Print Preview
+4. Update Page switch feature.
+5. ...
