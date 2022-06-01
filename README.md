@@ -19,3 +19,7 @@ News:
 3. Update Print Preview
 4. Update Page switch feature.
 5. ...
+
+01/06/2022, news:
+Add rapid drawing feature.
+Fix a few bugs
